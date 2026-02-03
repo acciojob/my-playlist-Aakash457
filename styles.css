@@ -1,15 +1,15 @@
 /*  your css code here. If applicable */
 body{
-	background-color: rgd(204,204,204);
+	background-color: rgb(204,204,204);
 	font-family:Arial, sans-serif;
 }
 
 h1,h2{
-	text-align: center
+	text-align: center;
 }
 
 ul{
-	padding: 0
+	padding: 0;
 }
 
 li{
@@ -19,10 +19,10 @@ li{
 
 a{
 	text-decoration-line: none;
-	color:black
+	color:black;
 }
 
-.player_one,.Player_two{
+.player_one,.player_two{
 	background-color:rgb(255,255,255);
 	padding: 20px;
 	border-radius: 10px;
